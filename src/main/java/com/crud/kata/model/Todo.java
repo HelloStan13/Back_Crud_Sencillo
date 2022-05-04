@@ -13,6 +13,10 @@ public class Todo {
     private String responsible;
     private boolean completed;
 
+    public Todo() {
+
+    }
+
     public Long getId() {
         return id;
     }
