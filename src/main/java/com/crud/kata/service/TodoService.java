@@ -20,7 +20,7 @@ public class TodoService {
     }
 
     public void delete(Long id){
-        repository.delete(get(id));
+        repository.deleteById(id);
     }
 
     public Todo get(Long id){
