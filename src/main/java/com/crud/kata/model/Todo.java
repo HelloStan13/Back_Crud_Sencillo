@@ -10,6 +10,7 @@ public class Todo {
     @GeneratedValue
     private Long id;
     private String name;
+    private String responsible;
     private boolean completed;
 
     public Long getId() {
@@ -26,6 +27,14 @@ public class Todo {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getResponsible() {
+        return responsible;
+    }
+
+    public void setResponsible(String responsible) {
+        this.responsible = responsible;
     }
 
     public boolean isCompleted() {
