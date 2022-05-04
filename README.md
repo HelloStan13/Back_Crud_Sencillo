@@ -22,6 +22,9 @@ https://github.com/HelloStan13/Front_Crud_Sencillo.git
 ![Todo](https://user-images.githubusercontent.com/92740455/166840640-4fa9a90c-70c6-43ee-8f5f-6858fd8b8fe7.jpg)
 
 
+## Video
+https://www.loom.com/share/571fe574889047beab04ea87f7c37230
+
 ### Adryan Ynfante 
 ### Contacto
 adryanynfante@gmail.com
