@@ -26,6 +26,12 @@ class KataSencillaApplicationTests {
 
 //guardar usuario
 
+	@Test
+	public void testSave(){
+		Todo todoModel = new Todo("Realizar Back Spring Boot","Adryan Ynfante", false);
+		Todo todoModelRegistrado = iTodoRepository.save(todoModel);
+		assertNotNull(todoModelRegistrado);
+	}
 
 
 }

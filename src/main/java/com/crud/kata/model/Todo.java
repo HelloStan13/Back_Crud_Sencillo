@@ -16,6 +16,9 @@ public class Todo {
     public Todo() {
 
     }
+    //constructor pruebas
+    public Todo(String realizar_back_spring_boot, String adryan_ynfante, boolean b) {
+    }
 
     public Long getId() {
         return id;
